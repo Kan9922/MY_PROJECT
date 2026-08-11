@@ -70,6 +70,11 @@
     "version" : "8.0.1",
     "status" : "ok"
   }, {
+    "id" : "org.talend.designer.core.generic.model.migration.NewTckSalesforceMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.designer.core.generic.model.migration.NewTckSnowflakeMigrationTask",
     "breaks" : "8.0.1",
     "version" : "8.0.1",
@@ -84,6 +89,11 @@
     "breaks" : "6.2.1",
     "version" : "6.2.1",
     "status" : "ok"
+  }, {
+    "id" : "org.talend.designer.core.generic.model.migration.SalesforceEinsteinSchemaPropertyMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
   }, {
     "id" : "org.talend.designer.core.model.process.migration.AddDistributionForDIItemMigrationTask",
     "breaks" : "8.0.0",
@@ -1598,6 +1608,11 @@
     "version" : "5.4.0",
     "status" : "ok"
   }, {
+    "id" : "org.talend.repository.model.migration.RemoveJBossFromtMomMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
+  }, {
     "id" : "org.talend.repository.model.migration.RemoveMetadataInPomsFolder",
     "breaks" : "7.4.1",
     "version" : "7.4.1",
@@ -1637,6 +1652,11 @@
     "breaks" : "5.1.1",
     "version" : "5.1.2",
     "status" : "ok"
+  }, {
+    "id" : "org.talend.repository.model.migration.RenameAmazonMysqlMigrationTask",
+    "breaks" : "8.0.1",
+    "version" : "8.0.1",
+    "status" : "noimpact"
   }, {
     "id" : "org.talend.repository.model.migration.RenameConnectionName4tSQSOutput",
     "breaks" : "7.3.0",
